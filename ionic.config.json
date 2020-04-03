@@ -1,5 +1,7 @@
 {
   "name": "appStorage",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
